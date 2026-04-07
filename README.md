@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Rub%C3%A9n%20Villarrubia&fontSize=55&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Distributed%20Systems&descAlignY=58&descColor=aaffcc&animation=fadeIn" width="100%"/>
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack+%F0%9F%9A%80;Especializ%C3%A1ndome+en+IA+%26+Sistemas+Distribuidos+%F0%9F%A4%96;NestJS+%7C+Angular+%7C+Spring+Boot+%7C+Docker;Fuengirola%2C+M%C3%A1laga+%F0%9F%8C%8A+%E2%80%94+Abierto+a+oportunidades+%F0%9F%9F%A2)](https://git.io/typing-svg)
