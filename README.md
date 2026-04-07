@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff88,100:0d0d0d&height=200&section=header&text=Rubén%20Villarrubia&fontSize=50&fontColor=00ff88&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20AI%20%26%20Distributed%20Systems&descAlignY=58&descColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0d0d,50:00ff88,100:0d0d0d&amp;height=200&amp;section=header&amp;text=Rub%C3%A9n%20Villarrubia&amp;fontSize=50&amp;fontColor=00ff88&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%C2%B7%20AI%20%26%20Distributed%20Systems&amp;descAlignY=58&amp;descColor=ffffff&amp;animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&multiline=false&width=650&lines=%24+whoami+%E2%86%92+Full+Stack+Developer+%40+Fuengirola%2C+Espa%C3%B1a;%24+focus+%E2%86%92+AI+Development+%26+Distributed+Systems;%24+stack+%E2%86%92+NestJS+%7C+Angular+%7C+Spring+Boot+%7C+Docker;%24+status+%E2%86%92+Abierto+a+nuevas+oportunidades+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
@@ -195,6 +195,6 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rubenvg16.rubenvg16&left_color=000000&right_color=00ff88&left_text=visitas)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff88,100:0d0d0d&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0d0d,50:00ff88,100:0d0d0d&amp;height=100&amp;section=footer)
 
 </div>
