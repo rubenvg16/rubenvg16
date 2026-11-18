@@ -1,32 +1,51 @@
-# Rubén Villarrubia
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./perfil-assets/atlas.png">
+  <img src="./perfil-assets/atlas.gif" width="100%" alt="Rubén Villarrubia · Desarrollo full stack, IA y sistemas distribuidos. Un globo animado conecta nodos mediante rutas orbitales.">
+</picture>
 
-**Desarrollador full stack · Inteligencia artificial y sistemas distribuidos**
+**📍 Fuengirola, Málaga** &nbsp;·&nbsp; 🟢 Abierto a oportunidades profesionales
 
-Desarrollo aplicaciones web, desde la API hasta la interfaz. Trabajo con NestJS, Spring Boot y Angular, y me especializo en dos áreas: la integración de modelos de lenguaje en productos web y el diseño de servicios que se comunican mediante APIs.
+Desarrollo aplicaciones web de extremo a extremo. Trabajo con Angular en la interfaz y con NestJS o Spring Boot en el backend. Me interesa especialmente lo que ocurre entre servicios: cómo comparten datos y dónde un modelo de lenguaje puede aportar algo útil.
 
-📍 Fuengirola, Málaga · Abierto a oportunidades profesionales
+[![Portafolio](https://img.shields.io/badge/Portafolio-90F5CE?style=for-the-badge&logo=googlechrome&logoColor=102D38)](https://rubenvg16.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-153943?style=for-the-badge)](https://www.linkedin.com/in/ruben-villarrubia-gutierrez-0725a4302/)
+[![Correo](https://img.shields.io/badge/Correo-FF9677?style=for-the-badge&logo=gmail&logoColor=102D38)](mailto:rubenvillarrubiagutierrez@gmail.com)
 
-[Portafolio](https://rubenvg16.github.io/portfolio) · [LinkedIn](https://www.linkedin.com/in/ruben-villarrubia-gutierrez-0725a4302/) · [Correo](mailto:rubenvillarrubiagutierrez@gmail.com)
+## ◈ Proyecto destacado
 
-## Proyecto destacado
+[![Procheck · Aplicación web con NestJS y Angular. Abrir el repositorio.](./perfil-assets/procheck.png)](https://github.com/rubenvg16/Procheck)
 
-### [Procheck ↗](https://github.com/rubenvg16/Procheck)
+**Procheck** es una aplicación web que desarrollé en un entorno empresarial. La interfaz en **Angular** consume una API en **NestJS**; **TypeScript** es el lenguaje común a ambos lados.
 
-Aplicación web que desarrollé en un entorno empresarial. Combina una API en **NestJS** con una interfaz en **Angular** y utiliza **TypeScript** en ambas capas.
+[Explorar el código de Procheck →](https://github.com/rubenvg16/Procheck)
 
-## Áreas de trabajo
+## ✦ Áreas de trabajo
 
-- **Inteligencia artificial:** integro modelos de lenguaje y agentes en flujos de trabajo.
-- **Sistemas distribuidos:** diseño APIs y organizo aplicaciones en microservicios con Docker.
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./perfil-assets/traza.png">
+  <img src="./perfil-assets/traza.gif" width="100%" alt="De la interfaz a la API.">
+</picture>
 
-## Tecnologías
+🧠 **Inteligencia artificial** — Integro modelos de lenguaje y agentes en flujos de trabajo.  
+🛰️ **Sistemas distribuidos** — Diseño APIs y organizo servicios en contenedores con Docker.  
+🧩 **Desarrollo full stack** — Conecto lo que ve el usuario con la lógica y los datos que hay detrás.
 
-| Área | Herramientas |
-| :--- | :--- |
-| Backend | NestJS, Spring Boot, Java, TypeScript, JavaScript |
-| Frontend | Angular, HTML, Sass, Tailwind CSS, Bootstrap |
-| Datos y entorno | PostgreSQL, Docker, Linux, Git |
+## 🧰 Caja de herramientas
 
-## Actividad
+**01 / Backend**  
+![NestJS, Spring Boot, Java, TypeScript y JavaScript](https://skillicons.dev/icons?i=nestjs,spring,java,ts,js&theme=dark)
 
-[Ver mis repositorios públicos en GitHub ↗](https://github.com/rubenvg16?tab=repositories)
+**02 / Frontend**  
+![Angular, HTML, Sass, Bootstrap y Tailwind CSS](https://skillicons.dev/icons?i=angular,html,sass,bootstrap,tailwind&theme=dark)
+
+**03 / Infraestructura y datos**  
+![Docker, PostgreSQL, Git y Linux](https://skillicons.dev/icons?i=docker,postgres,git,linux&theme=dark)
+
+---
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./perfil-assets/marea.png">
+  <img src="./perfil-assets/marea.gif" width="100%" alt="">
+</picture>
+
+✧ [Ver más proyectos](https://github.com/rubenvg16?tab=repositories)  ·  [Escribirme por correo](mailto:rubenvillarrubiagutierrez@gmail.com) ✧
